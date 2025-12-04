@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=500&color=F7F7F7&repeat=false&width=435&lines=Bem+Vindo+ao+Meu+Github!" alt="Typing SVG" alt="Typing SVG" /></div>
 
  ### Olá, me chamo Vinicius Durand, tenho 17 anos e moro em Igarassu-PE!
- - Sou programador Iniciante 💻
+ - Desenvolvedor em Formação | Foco em Dados e Back-end 💻
  - Tenho interesse nas Inteligências Artificiais e no Aprendizado de Máquina 🤖
  - Hobbies: Aprender novas tecnologias, ouvir música e jogar📱
  - Gosto de Matemática e de Analíse de Dados 📊
