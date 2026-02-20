@@ -41,6 +41,6 @@ Em vez de apenas escrever código, meu objetivo é construir infraestruturas só
 | **Análise de Dados & Excel Avançado** | 🟢 Em andamento |
 | **Fundamentos de IA (Bootcamps DIO)** | 🟢 Em andamento |
 <br>
-----------
+
 <div align="center">
   </div>
