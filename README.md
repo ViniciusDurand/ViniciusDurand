@@ -36,5 +36,5 @@ Em vez de apenas escrever código, meu objetivo é construir infraestruturas só
 | **Fundamentos de IA (Bootcamps DIO)** | 🟢 Em andamento |
 <br>
 ----------
-
-![Vinicius Git Stats](https://github-readme-stats.vercel.app/api?username=ViniciusDurand&show_icons=true&theme=dracula)
+<div align="center">
+  </div>
