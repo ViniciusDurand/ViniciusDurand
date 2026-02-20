@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=500&color=F7F7F7&repeat=false&width=435&lines=Olá+Eu+Sou+Vinicius+Durand!" alt="Typing SVG" alt="Typing SVG" /></div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=F7F7F7&width=435&lines=OL%C3%81%2C+EU+SOU+VINICIUS+DURAND" alt="Typing SVG" /></a>
 
 **Estudante de Ciência da Computação @ UCB | Foco em Engenharia de Dados & IA**
 
