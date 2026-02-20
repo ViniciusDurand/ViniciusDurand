@@ -1,35 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=500&color=F7F7F7&repeat=false&width=435&lines=Bem+Vindo+ao+Meu+Github!" alt="Typing SVG" alt="Typing SVG" /></div>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=500&color=F7F7F7&repeat=false&width=435&lines=Olá+Eu+Sou+Vinicius+Durand!" alt="Typing SVG" alt="Typing SVG" /></div>
 
- ### Olá, me chamo Vinicius Durand, tenho 18 anos e moro em Recife-PE!
- - Desenvolvedor em Formação | Foco em Dados e Back-end 💻
- - Tenho interesse nas Inteligências Artificiais e no Aprendizado de Máquina 🤖
- - Hobbies: Aprender novas tecnologias, ouvir música e jogar📱
- - Gosto de Matemática e de Analíse de Dados 📊
- - Meu objetivo é criar minha propria empresa Tech 🏭
+**Estudante de Ciência da Computação @ UCB | Foco em Engenharia de Dados & IA**
 
+Tenho 18 anos, moro na região metropolitana do Recife-PE e sou apaixonado por transformar dados brutos em inteligência de negócios. 
+Em vez de apenas escrever código, meu objetivo é construir infraestruturas sólidas e usar a tecnologia para resolver problemas reais.
+
+### 🎯 Minha Trajetória e Objetivos:
+* 🎓 Graduando em **Ciência da Computação** pela Universidade Católica de Brasília (UCB).
+* ⚙️ Focado em dominar a base da **Engenharia de Dados** (Python, SQL) e Lógica de Programação.
+* 📈 Desenvolvendo visão de negócios através de **Análise de Dados** e Excel Avançado.
+* 🚀 **Visão de Longo Prazo:** Fundar minha própria empresa de Tecnologia e Inteligência Artificial.
 
 ------
-### Habilidades:
- 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge)
+### 🛠️ Minha Caixa de Ferramentas (Stack Atual):
 
----- 
- 
- ### *Em Aprendizado:*
+**Linguagens & Banco de Dados:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Análise & BI:**
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**Controle de Versão:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
 ------------
-| Cursos               | Certificados     |
-|---------------------|-----------------|
-| Git e GitHub         | Em andamento... |
-| Lógica de Programação| Em andamento... |
-| Fundamentos da IA | Em andamento... |
+### 📚 Educação e Capacitação:
 
+| Formação / Curso | Status |
+| :--- | :--- |
+| **Bacharelado em Ciência da Computação (UCB)** | 🟢 Em andamento |
+| **Lógica de Programação & Python** | 🟢 Em andamento |
+| **Análise de Dados & Excel Avançado** | 🟢 Em andamento |
+| **Fundamentos de IA (Bootcamps DIO)** | 🟢 Em andamento |
+<br>
 ----------
 
 ![Vinicius Git Stats](https://github-readme-stats.vercel.app/api?username=ViniciusDurand&show_icons=true&theme=dracula)
