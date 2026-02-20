@@ -14,7 +14,8 @@
  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Excel)(https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-brightgreen?style=for-the-badge)
+
 ---- 
  
  ### *Em Aprendizado:*
