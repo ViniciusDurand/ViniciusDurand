@@ -3,7 +3,7 @@
 
 <div align="center"> **Estudante de Ciência da Computação @ UCB | Foco em Engenharia de Dados & IA** <img src="https://img.icons8.com/?size=100&id=eX8jitZ012aV&format=png&color=000000" width="14"></div>                                                                                                                                             
 
-Tenho 18 anos, moro na região metropolitana do Recife-PE e sou apaixonado por transformar dados brutos em inteligência de negócios. 
+- Tenho 18 anos, moro na região metropolitana do Recife-PE e sou apaixonado por transformar dados brutos em inteligência de negócios. 
 Em vez de apenas escrever código, meu objetivo é construir infraestruturas sólidas e usar a tecnologia para resolver problemas reais.
 
 ### 🎯 Minha Trajetória e Objetivos:
