@@ -43,7 +43,7 @@ Em vez de apenas escrever código, meu objetivo é construir infraestruturas só
 | **Bacharelado em Ciência da Computação (UCB)** | 🟢 Em andamento |
 | **Lógica de Programação & Python** | 🟢 Em andamento |
 | **Análise de Dados & Excel Avançado** | 🟢 Em andamento |
-| **Fundamentos de IA (Bootcamps DIO)** | 🟢 Em andamento |
+| **Análise de Dados - KLABIN (Bootcamps DIO)** | 🟢 Em andamento |
 <br>
 
 <div align="center">
