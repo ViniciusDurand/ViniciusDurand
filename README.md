@@ -1,13 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=3500&pause=1000&color=F7F7F7&width=435&center=true&lines=OL%C3%81%2C+EU+SOU+VINICIUS+DURAND" alt="Typing SVG" />
+   <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?backgroundOpacity=0&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22VIN%C3%8DCIUS+DURAND%22%2C%22font%22%3A%22VT323%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.4464285714285714%7D%5D" alt="Typing SVG" /></a>
   </a>
-  <br><br>
+  <br>
   <b>Estudante de Ciência da Computação @ UCB | Foco em Engenharia de Dados & IA</b> <img src="https://img.icons8.com/?size=100&id=eX8jitZ012aV&format=png&color=000000" width="14">
 </div>
 
 <br>                        
-
 
  Tenho 18 anos, moro na região metropolitana do Recife-PE e sou apaixonado por transformar dados brutos em inteligência de negócios. 
 Em vez de apenas escrever código, meu objetivo é construir infraestruturas sólidas e usar a tecnologia para resolver problemas reais.
