@@ -1,51 +1,50 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?height=65&backgroundOpacity=0&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22VIN%C3%8DCIUS+DURAND%22%2C%22font%22%3A%22VT323%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.4464285714285714%2C%22lineHeight%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
- 
-  ------
-  
-  <br>
-  <b>Estudante de Ciência da Computação @ UCB | Foco em Engenharia de Dados & IA</b> <img src="https://img.icons8.com/?size=100&id=eX8jitZ012aV&format=png&color=000000" width="14">
+  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?height=65&backgroundOpacity=0&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22VIN%C3%8DCIUS+DURAND%22%2C%22font%22%3A%22VT323%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A50%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.4464285714285714%2C%22lineHeight%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
+ 
+  ------
+  
+  <br>
+  <b>Estudante de Ciência da Computação @ UCB | Foco em Desenvolvimento Back-End (Java)</b> <img src="https://img.icons8.com/?size=100&id=eX8jitZ012aV&format=png&color=000000" width="14">
 </div>
 
-<br>                        
+<br>                        
 
- Tenho 18 anos, moro na região metropolitana do Recife-PE e sou apaixonado por transformar dados brutos em inteligência de negócios. 
-Em vez de apenas escrever código, meu objetivo é construir infraestruturas sólidas e usar a tecnologia para resolver problemas reais.
+Tenho 18 anos, resido na região metropolitana do Recife-PE e sou focado na construção de sistemas corporativos escaláveis e seguros. Minha missão atual é dominar o ecossistema Back-End, construindo a lógica por trás das aplicações e aplicando a Orientação a Objetos para resolver problemas reais de engenharia de software.
 
 ### 🎯 Minha Trajetória e Objetivos:
 
 * 🎓 Graduando em **Ciência da Computação** pela Universidade Católica de Brasília (UCB).
-* ⚙️ Focado em dominar a base da **Engenharia de Dados** (Python, SQL) e Lógica de Programação.
-* 📈 Desenvolvendo visão de negócios através de **Análise de Dados** e Excel Avançado.
-* 🚀 **Visão de Longo Prazo:** Fundar minha própria empresa de Tecnologia e Inteligência Artificial.
+* ⚙️ Imersão técnica na base do ecossistema **Java** (POO, Estruturas de Dados).
+* 🗄️ Desenvolvendo arquitetura de persistência com **Bancos de Dados Relacionais** (SQL).
+* 🚀 **Visão de Longo Prazo:** Arquitetura de Software e fundar minha própria empresa de Tecnologia em IA.
 
 ------
 ### 💻 Minha Caixa de Ferramentas (Stack Atual):
 
-**Linguagens & Banco de Dados:**
+**Linguagem Principal & Frameworks:**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Banco de Dados:**
+
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Análise & BI:**
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Controle de Versão:**
+**Versionamento:**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
+ 
 ------------
 ### 📚 Educação e Capacitação:
 
 | Formação / Curso | Status |
 | :--- | :--- |
 | **Bacharelado em Ciência da Computação (UCB)** | 🟢 Em andamento |
-| **Lógica de Programação & Python** | 🟢 Em andamento |
-| **Power BI & Excel Avançado** | 🟢 Em andamento |
-| **Análise de Dados - KLABIN (Bootcamps DIO)** | 🟢 Em andamento |
+| **Java: Lógica de Programação, Algoritmos e POO** | 🟢 Em andamento |
+| **Desenvolvimento Back-End Java (Bootcamps)** | 🟢 Em andamento |
 <br>
 
 <div align="center">
-  </div>
+  </div>
