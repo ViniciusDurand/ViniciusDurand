@@ -10,7 +10,8 @@
 
 <br>                        
 
-Tenho 18 anos, resido na região metropolitana do Recife-PE e sou focado na construção de sistemas corporativos escaláveis e seguros. Minha missão atual é dominar o ecossistema Back-End, construindo a lógica por trás das aplicações e aplicando a Orientação a Objetos para resolver problemas reais de engenharia de software.
+Tenho 18 anos, resido na região metropolitana do Recife-PE e sou focado na construção de sistemas corporativos escaláveis e seguros.<br> 
+Minha missão atual é dominar o ecossistema Back-End, construindo a lógica por trás das aplicações e aplicando a Orientação a Objetos para resolver problemas reais de engenharia de software.
 
 ### 🎯 Minha Trajetória e Objetivos:
 
@@ -20,7 +21,7 @@ Tenho 18 anos, resido na região metropolitana do Recife-PE e sou focado na cons
 * 🚀 **Visão de Longo Prazo:** Arquitetura de Software e fundar minha própria empresa de Tecnologia em IA.
 
 ------
-### 💻 Minha Caixa de Ferramentas (Stack Atual):
+### 💻 Tecnologias em Estudo Ativo (Foco de Formação):
 
 **Linguagem Principal & Frameworks:**
 
